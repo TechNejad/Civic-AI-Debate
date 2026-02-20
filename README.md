@@ -8,4 +8,4 @@ For a detailed analysis and findings, please refer to the [full research report]
 
 Co-developed for the course Civig Engagement as part of the Artificial Inteligence for Sustainable Socieities (AISS) program. 
 
-By Kevin De Lange, Luke Schumacher & Mohsen Hassan Nejad
+By Mohsen Hassan Nejad, Luke Schumacher & Kevin De Lange,
