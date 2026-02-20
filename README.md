@@ -4,6 +4,8 @@
 
 A research-based platform that presents civic issues through debates between two AI agents rather than a single chatbot, promoting balanced deliberation and reducing algorithmic bias in democratic participation.
 
+For a detailed analysis and findings, please refer to the [full research report](Final_Report_Civi_AI_Debate.pdf).
+
 Co-developed for the course Civig Engagement as part of the Artificial Inteligence for Sustainable Socieities (AISS) program. 
 
 By Kevin De Lange, Luke Schumacher & Mohsen Hassan Nejad
